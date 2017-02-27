@@ -1,4 +1,5 @@
 venv*
+*.yml
 # Created by https://www.gitignore.io/api/python,vim,kate,phpstorm
 
 ### Kate ###
