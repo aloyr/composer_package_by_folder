@@ -1,0 +1,4 @@
+working_dir: "~/test"
+exclusion_list:
+  - "exclusion_example_1"
+  - "exclusion_example_2"
